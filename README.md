@@ -107,5 +107,5 @@ Released under the [MIT licence](https://github.com/folktale/core.operators/blob
 [es5-shim]: https://github.com/kriskowal/es5-shim
 [docs]: http://folktale.github.io/core.operators
 <!-- [release: https://github.com/folktale/core.operators/releases/download/v$VERSION/core.operators-$VERSION.tar.gz] -->
-[release]: https://github.com/folktale/core.operators/releases/download/v0.0.0/core.operators-0.0.0.tar.gz
+[release]: https://github.com/folktale/core.operators/releases/download/v1.0.0/core.operators-1.0.0.tar.gz
 <!-- [/release] -->

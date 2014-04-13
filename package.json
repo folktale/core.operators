@@ -1,6 +1,6 @@
 {
   "name": "core.operators",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides JS operators as curried functions.",
   "main": "lib/index.js",
   "scripts": {
