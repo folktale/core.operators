@@ -20,7 +20,7 @@ bundle: dist/core.operators.umd.js
 
 minify: dist/core.operators.umd.min.js
 
-documentation: dev-tools
+documentation: 
 	$(jsdoc) --configure jsdoc.conf.json
 	ABSPATH=$(shell cd "$(dirname "$0")"; pwd) $(MAKE) clean-docs
 
